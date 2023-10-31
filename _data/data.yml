@@ -61,17 +61,14 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: M.S. in Computer Science
+        university: University of Georgia
+        time: 2003 - 2006
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Focus on Semantic Web technologies.
+          - Composed thesis titled Ontology-Driven Automatic Entity Disambiguation in Unstructured Text which was accepted into the International Semantic Web Conference of 2006.  
+          - Developed Semantic Chat, which would automatically gather information from a user’s chats and create an ontology.  Other users of the application could then query the ontology.  
+          - Developed Legal Logic Tree, a program that traces the origins of a law through its cited ancestors.
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
