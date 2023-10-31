@@ -18,9 +18,9 @@ sidebar:
     # timezone: America/Cancun Timezone
     # citizenship:
     # website: blog.webjeda.com #do not add http://
-    linkedin: linkedin.com/in/jedhassell/
+    linkedin: jedhassell
     # xing: alandoe
-    github: github.com/jedhassell
+    github: jedhassell
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
@@ -45,24 +45,19 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Tinkering
           link:
 
-        - item: Snowboarding
+        - item: Hiking
           link:
 
-        - item: Cooking
+        - item: FPV Drones
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Innovative and sociable Software Engineer with fifteen years of professional experience from health science to mutual fund and securities software, Joseph is an agile developer with a diverse portfolio.  Passionate about being part of a highly collaborative team applying novel solutions to complex problems, Joseph is a quick learner, well adapted, and highly self-motivated.  
 education:
     title: Education
     info:
