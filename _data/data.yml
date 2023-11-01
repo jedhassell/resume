@@ -3,255 +3,273 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Joseph (Jed) Hassell
-    tagline: Staff Software Engineer at One Medical
-    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Joseph (Jed) Hassell
+  tagline: Staff Software Engineer at One Medical
+  # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: jedhassell@gmail.com
-    # phone: 012 345 6789
-    # timezone: America/Cancun Timezone
-    # citizenship:
-    # website: blog.webjeda.com #do not add http://
-    linkedin: jedhassell
-    # xing: alandoe
-    github: jedhassell
-    # telegram: # add your nickname without '@' sign
-    # gitlab:
-    # bitbucket:
-    # twitter: '@webjeda'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: jedhassell@gmail.com
+  # phone: 012 345 6789
+  # timezone: America/Cancun Timezone
+  # citizenship:
+  # website: blog.webjeda.com #do not add http://
+  linkedin: jedhassell
+  # xing: alandoe
+  github: jedhassell
+  # telegram: # add your nickname without '@' sign
+  # gitlab:
+  # bitbucket:
+  # twitter: '@webjeda'
+  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  # codewars:
+  # goodreads: # Number-Username, e.g. 123456-alandoe
+  # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    # languages:
-    #   title: Languages
-    #   info:
-    #     - idiom: English
-    #       level: Native
+  # languages:
+  #   title: Languages
+  #   info:
+  #     - idiom: English
+  #       level: Native
 
-    #     - idiom: French
-    #       level: Professional
+  #     - idiom: French
+  #       level: Professional
 
-    #     - idiom: Spanish
-    #       level: Professional
+  #     - idiom: Spanish
+  #       level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Tinkering
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Tinkering
+        link:
 
-        - item: Hiking
-          link:
+      - item: Hiking
+        link:
 
-        - item: FPV Drones
-          link:
+      - item: FPV Drones
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Innovative and sociable Software Engineer with fifteen years of professional experience from health science to mutual fund and securities software, Joseph is an agile developer with a diverse portfolio.  Passionate about being part of a highly collaborative team applying novel solutions to complex problems, Joseph is a quick learner, well adapted, and highly self-motivated.  
+  title: Career Profile
+  summary: |
+    Innovative and sociable Software Engineer with fifteen years of professional experience from health science to mutual fund and securities software, Joseph is an agile developer with a diverse portfolio.  Passionate about being part of a highly collaborative team applying novel solutions to complex problems, Joseph is a quick learner, well adapted, and highly self-motivated.
 education:
-    title: Education
-    info:
-      - degree: M.S. in Computer Science
-        university: University of Georgia
-        time: 2003 - 2006
-        details: |
-          - Focus on Semantic Web technologies.
-          - Composed thesis titled Ontology-Driven Automatic Entity Disambiguation in Unstructured Text which was accepted into the International Semantic Web Conference of 2006.  
-          - Developed Semantic Chat, which would automatically gather information from a user’s chats and create an ontology.  Other users of the application could then query the ontology.  
-          - Developed Legal Logic Tree, a program that traces the origins of a law through its cited ancestors.
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Education
+  info:
+    - degree: M.S. in Computer Science
+      university: University of Georgia
+      time: 2003 - 2006
+      details: |
+        - Focus on Semantic Web technologies.
+        - Composed thesis titled Ontology-Driven Automatic Entity Disambiguation in Unstructured Text which was accepted into the International Semantic Web Conference of 2006.  
+        - Developed Semantic Chat, which would automatically gather information from a user’s chats and create an ontology.  Other users of the application could then query the ontology.  
+        - Developed Legal Logic Tree, a program that traces the origins of a law through its cited ancestors.
+    - degree: B.S. in Computer Science
+      university: Columbus State University
+      time: 1999 - 2003
+      details: |
+        - Accepted into the Servant Leadership Program and honored with a scholarship that commends community service (over 700 hours) outreach and leadership for four years (1999 –2003). 
+        - Chosen to be a Representative at the Georgia Student Leadership Forum for three years (2000-2003).
 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Experiences
+  info:
+    - role: Staff Software Engineer
+      time: 2020 - Present
+      company: One Medical
+      details: |
+        TBD
+    - role: Lead Software Engineer
+      time: 2016 - 2020
+      company: The RealReal
+      details: |
+        Lead Engineer of an agile scrum team focused on internal tools, infrastructure, and micro service architecture.
+          - (Ruby, Elixir, MySql, Redis, Elasticsearch) Implemented and deployed business critical, internal warehouse features on Heroku.
+          - (Elixir, Postgres) Created service to manage image transfers to and from external retouching vendors.
+          - (Ruby) Designed and implemented event driven architecture leveraging Kafka for communication between services.
+          - (Ruby) Created a tool to inject remote metadata into image files deployed via Homebrew to ~100 photography studios. 
+          - Built a local team by recruiting, interviewing, hiring, and mentoring engineers.
+          - Performed scrum master duties while keeping focus on the most impactful project driven by KPI metrics while navigating an IPO.
+          - Impactful hackathon projects: (Ruby) rapid db import/export tool, (Python, FastAI) image classification models, (Ruby) geo location based product recommendation system, (Ruby) Automator scripts to help warehouse managers.
+          - Led initiative for continuous delivery.
+    - role: Staff Software Engineer
+      time: 2015 - 2016
+      company: Lookout
+      details: |
+        Staff Engineer of a team that detects mobile malware at a large scale.
+          - (Ruby, Scala) Broke monolithic application into scalable, maintainable microservices using Amazon's Simple WorkFlow.
+          - Scrum master who educated team on proper scrum implementation.
+          - Participated in a hackathon by surveying different databases and having them compete in sharding performance.
+          - (Ruby) Stabilized mobile application ingestion API.  
+          - Evaluated Docker in production environment.
+    - role: Senior Software Engineer
+      time: 2012 - 2013
+      company: AKQA
+      details: |
+        Senior engineer at an award winning digital advertising agency.
+          - (Ruby, MongoDB) Engineered highly scalable websites such as weeklyad.target.com.  
+          - (Ruby, MongoDB) Scaled server stack for Black Friday from 30 million page views per week to handle over 300 million.
+    - role: Senior Software Engineer
+      time: 2007 - 2012
+      company: Delta Data Software
+      details: |
+        Senior engineer on a team who developed SaaS software for the efficient management and manipulation of mutual fund data.
+          - (Ruby) Involved in design and architecture, web UI, and implementation of four projects from the beginning to the end of the development cycle. 
+          - Mentored junior engineers into being more productive and efficient team members.
+    - role: Senior Software Engineer
+      time: 2006 - 2007
+      company: Cerner Corporation
+      details: |
+        Produced healthcare software for medical facilities that aided in organizing a variety of functions.
+          - (Java) Produced data access layers to be consumed by other teams.
+          - (Java) Developed charting and order management software.
+          - Trained various staff at medical facilities as well as implemented changes in the function of software to meet individual facility needs.
+    - role: Software Engineer
+      time: 2005 - 2006
+      company: Semagix
+      details: |
+        Constructed software to help identify abnormal actions in clients’ databases such as money laundering.
+          - (Java) Researched ontology representation systems and analyzed the most appropriate solution to satisfy the company’s needs based on speed, size, and memory footprint.  
+          - (Java) Developed in-memory frameworks for several internal ontologies.
+    - role: Web Designer
+      time: 2002
+      company: Pastoral Institute
+      details: |
+        Designed website for the Servant Leadership program at Columbus State University.
+          - Created several Flash animations which were deployed to the website.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+# certifications:
+#   title: Certifications
+#   list:
+#     - name: CV Builder
+#       start: 2020
+#       end: 2021
+#       organization: Microsoft
+#       credentialid: 111-222
+#       credentialurl: www.google.com
+#       credentialname: Google
+#       details: |
+#         Details about cert. Lorem ipsum dolor sit amet, consectetur
+#         adipiscing elit.
+#         Nullam eget orci purus. Nullam ultrices neque nibh.
+#         Aenean fermentum, felis vulputate suscipit accumsan,
+#         sem enim bibendum augue, sed convallis arcu lacus at dui.
+#         Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#         Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#         Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+#         Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#         fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#         justo diam viverra velit, sed rhoncus leo leo eu justo.
+#         Suspendisse placerat risus ante, sed porta nisi blandit at.
+#     - name: Git learning
+#       start: 2019
+#       end:
+#       organization: Microsoft
+#       credentialid: 111-222
+#       credentialurl: www.github.com
+#       credentialname: Github
+#       details: |
+#         Older certification. Lorem ipsum dolor sit amet, consectetur
+#         adipiscing elit.
+#         Nullam eget orci purus. Nullam ultrices neque nibh.
+#         Aenean fermentum, felis vulputate suscipit accumsan,
+#         sem enim bibendum augue, sed convallis arcu lacus at dui.
+#         Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#         Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#         Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Projects
+  intro: >
+    You can list your side projects in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Velocity
+      link: "#hook"
+      tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: DevStudio
+      link: "#"
+      tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Tempo
+      link: "#"
+      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Atom
+      link: "#"
+      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Delta
+      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this
+#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#     - title: Tempo
+#       link: "#"
+#       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#     - title: Atom
+#       link: "#"
+#       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#     - title: Delta
+#       link: "#"
+#       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#     - title: The Art of Computer Programming
+#       link: "#"
+#       authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#       link: "#"
+#       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#     - title: A syntax directed compiler for Algol 60
+#       link: "#"
+#       authors: Edgar T. Irons
+#       conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#   title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#   toolset:
+#     - name: Python & Django
+#       level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#     - name: Javascript & jQuery
+#       level: 98%
 
-      - name: Angular
-        level: 98%
+#     - name: Angular
+#       level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#     - name: HTML5 & CSS
+#       level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#     - name: Ruby on Rails
+#       level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#     - name: Sketch & Photoshop
+#       level: 60%
