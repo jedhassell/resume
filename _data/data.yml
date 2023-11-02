@@ -184,10 +184,8 @@ experiences:
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  # intro: >
+  #   A Few projects
   assignments:
     - title: MySql Quick Copy
       link: https://github.com/jedhassell/mysql-quick-copy
